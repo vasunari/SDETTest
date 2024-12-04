@@ -1,0 +1,36 @@
+{
+"TC-1":
+{
+    "empName":"vasu",
+    "empid":"vasub"
+},
+"TC-2":
+{
+    "empName":"vasu",
+    "empid":"vasub",
+    "phone":{
+       "num":12345678 
+    }
+},
+"TC-3":
+{
+    "empName":"vasu",
+    "empid":"vasub",
+    "phone":{
+       "num":12345678,
+       "acc":[10,20,30]
+    }
+},
+"TC-4":
+{
+    "empName":"vasu",
+    "empid":[10,20,30],
+    "str":["a","b","c"]
+    
+}
+
+
+
+
+
+}
